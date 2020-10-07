@@ -1,0 +1,3 @@
+- Dogs :heart: 
+- hiking 
+- paddleboarding
