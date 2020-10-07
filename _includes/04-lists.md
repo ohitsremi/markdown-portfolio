@@ -1,1 +1,3 @@
-Dogs :heart:, hiking, paddleboarding
+- Dogs :heart: 
+- hiking 
+- paddleboarding
